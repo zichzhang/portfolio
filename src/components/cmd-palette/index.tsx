@@ -186,7 +186,7 @@ const CmdPalette = () => {
                 variant='unstyled'
               />
               <List overflow='auto' w='full' pb={2} px={2}>
-                <MenuDescendantsProvider value={descendants}>
+                <MenuDescendantsProvider value={undefined} >
                   {Object.keys(commands).map((section) => (
                     <>
                       {commands[section].length > 0 && (

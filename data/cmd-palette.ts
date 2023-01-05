@@ -50,14 +50,6 @@ export const searchItems: SearchItemsType = {
       title: 'Gear',
       href: '/gear',
     },
-    {
-      title: 'Bookmarks',
-      href: '/bookmarks',
-    },
-    {
-      title: 'Books',
-      href: '/books',
-    },
   ],
   social: [
     {

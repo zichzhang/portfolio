@@ -45,14 +45,6 @@ const thirdGroup = [
     href: '/gear',
     label: 'Gear',
   },
-  {
-    href: '/bookmarks',
-    label: 'Bookmarks',
-  },
-  {
-    href: '/books',
-    label: 'Books',
-  },
 ];
 
 const Footer = () => {
