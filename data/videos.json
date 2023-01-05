@@ -1,0 +1,24 @@
+{
+  "videos": [
+    {
+      "title": "How to NEVER get Liquidated Again with Cono Finance on Aave (Polygon)",
+      "description": "Cono Finance is a UI for Gelato's liquidation protection tool. This video explains how Gelato takes out a flashloan to repay a portion of your debt by swapping an amount of your collateral token into your debt token, and provides a practical guide on how to use Cono Finance.",
+      "url": "https://www.youtube.com/watch?v=OA0orWM2Lv8"
+    },
+    {
+      "title": "How to Borrow with Aave on Polygon and Yield Farm with Curve (Step-by-Step + Explanation)",
+      "description": "This video is a step-by-step guide + explanation on how to navigate through the Polygon network and start using DeFi apps on Polygon (Aave, Curve).",
+      "url": "https://www.youtube.com/watch?v=BTuZz9MEKnQ"
+    },
+    {
+      "title": "How to Earn Yield on ETH using crvSTETH Yearn Vault (detailed explanation)",
+      "description": "This video is not a tutorial but an explanation video. My goal was to breakdown what exactly is going on with your ETH when you deposit it into the crvSTETH Yearn Vault.",
+      "url": "https://www.youtube.com/watch?v=kU_x3_lcV6I"
+    },
+    {
+      "title": "How to Lend ETH and Earn Interest on Alpha Homora V2",
+      "description": "Alpha Homora V2 is a DeFi protocol for leveraged yield farming. This video is step-by-step guide on how you can lend your ETH on Alpha Homora V2.",
+      "url": "https://www.youtube.com/watch?v=SHdQRI4eudw"
+    }
+  ]
+}
