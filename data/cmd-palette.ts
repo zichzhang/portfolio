@@ -4,7 +4,6 @@ import { IoMoon } from 'react-icons/io5';
 
 import {
   GITHUB_PROFILE,
-  POLYWORK_PROFILE,
   TWITTER_PROFILE,
   YOUTUBE_CHANNEL,
 } from 'src/constants';
@@ -75,12 +74,7 @@ export const searchItems: SearchItemsType = {
       title: 'YouTube',
       icon: SiYoutube,
       href: YOUTUBE_CHANNEL,
-    },
-    {
-      title: 'Polywork',
-      icon: SiPolywork,
-      href: POLYWORK_PROFILE,
-    },
+    }
   ],
   theme: [
     {
