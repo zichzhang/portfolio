@@ -72,7 +72,7 @@ const Hero = () => {
         <UnorderedList alignItems='flex-start' w='full' spacing={3}>
           <ListItem>I am a software engineering student at McGill University.</ListItem>
           <ListItem>I specialize in full-stack web development, and have an interest in blockchain development and cryptography.</ListItem>
-          <ListItem>Currently, interning at <ExternalLink href='https://www.coveo.com/en'>Coveo</ExternalLink> as a software developer. Previously, interned at <ExternalLink href='https://www.bettersleep.com/'>BetterSleep</ExternalLink> as a web developer and at <ExternalLink href='https://www.cae.com/'>CAE</ExternalLink> as a data engineer.</ListItem>
+          <ListItem>Currently, interning at <ExternalLink href='https://www.coveo.com/en'>Coveo</ExternalLink> as a software developer. Previously, interned at <ExternalLink href='https://www.bettersleep.com/'>BetterSleep</ExternalLink> as a software developer and at <ExternalLink href='https://www.cae.com/'>CAE</ExternalLink> as a data engineer.</ListItem>
         </UnorderedList>
         <Stack direction={{ base: 'column', md: 'row' }} spacing={3}>
           {socialLinks.map(({ href, label, color }) => (
